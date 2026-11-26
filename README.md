@@ -12,8 +12,8 @@ pip install langchain-community langchain-text-splitters python-dotenv ollama
 
 ## Program Pipline
 
-![alt text](assets_readme/Load_file_function.png)
+![alt text](<assets_readme/python RAG pipline.png>)
 
-##Function Load_data
+## Function Load_data
 
 ![alt text](assets_readme/Load_file_function.png)
