@@ -8,7 +8,7 @@ Install the required Python dependencies:
 
 ```bash
 pip install langchain-community langchain-text-splitters python-dotenv ollama
-
+```
 
 ## Program Pipline
 
