@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+
+# Vector Database
+data/qdrant/
+qdrant
+
+docs
+*.db
+
+# Generated files
+qdrant_export.json
+
+# IDE
+.vscode/
+.idea/
